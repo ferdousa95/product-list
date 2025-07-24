@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "imageUrl": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 149.99,
+    "description": "Smart watch with heart rate monitor and GPS.",
+    "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Portable Speaker",
+    "price": 79.99,
+    "description": "Compact portable speaker with rich bass.",
+    "imageUrl": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "description": "Ergonomic gaming mouse with customizable buttons.",
+    "imageUrl": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "description": "Mechanical keyboard with RGB backlight.",
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 6,
+    "name": "HD Webcam",
+    "price": 49.99,
+    "description": "1080p HD webcam with built-in microphone.",
+    "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 7,
+    "name": "External Hard Drive",
+    "price": 119.99,
+    "description": "1TB external hard drive with USB 3.0.",
+    "imageUrl": "https://images.unsplash.com/photo-1580128636913-72b0963df314?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Wireless Charger",
+    "price": 29.99,
+    "description": "Fast wireless charger compatible with most phones.",
+    "imageUrl": "https://images.unsplash.com/photo-1585386959984-a41552247777?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Fitness Tracker",
+    "price": 69.99,
+    "description": "Waterproof fitness tracker with step counter.",
+    "imageUrl": "https://images.unsplash.com/photo-1556909190-e53bcf5fef62?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Earbuds",
+    "price": 39.99,
+    "description": "True wireless Bluetooth earbuds with charging case.",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Smartphone Gimbal",
+    "price": 129.99,
+    "description": "3-axis handheld smartphone gimbal stabilizer.",
+    "imageUrl": "https://images.unsplash.com/photo-1519183071298-a2962cc01f9a?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Laptop Stand",
+    "price": 34.99,
+    "description": "Adjustable aluminum laptop stand.",
+    "imageUrl": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Noise Cancelling Earphones",
+    "price": 59.99,
+    "description": "In-ear earphones with active noise cancelling.",
+    "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Smart Home Hub",
+    "price": 99.99,
+    "description": "Voice-controlled smart home hub device.",
+    "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Action Camera",
+    "price": 199.99,
+    "description": "4K waterproof action camera with wide-angle lens.",
+    "imageUrl": "https://images.unsplash.com/photo-1518546305922-6c2c1e1a172d?auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "id": 16,
+    "name": "USB-C Hub",
+    "price": 49.99,
+    "description": "Multi-port USB-C hub with HDMI and USB 3.0 ports.",
+    "imageUrl": "https://images.unsplash.com/photo-1555617117-08f2c6d0af90?auto=format&fit=crop&w=150&q=80"
+  }
+]
